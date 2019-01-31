@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\scala\workshop\myservice\target\scala-2.12\myservice_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\acts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\acts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\acts\MainActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\acts\MainActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\DaemonConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\DaemonConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\acts\MainActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\acts\MainActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\acts\MainActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\acts\MainActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\DaemonConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\DaemonConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\myservice\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\scala\workshop\myservice\target\scala-2.12\classes\com\myservice\Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
