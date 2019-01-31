@@ -18,8 +18,12 @@ ThisBuild / fork := true
 
 Global / cancelable := true
 
-lazy val root = (project in file(".")).aggregate(myservice)
+lazy val root = (project in file("."))
+  .aggregate(webService)
+  .aggregate(webBlog)
 
 //to add new module of project
-lazy val myservice = project in file("myservice")
+lazy val webService = project in file("web-service")
+
+lazy val webBlog = project in file("web-blog")
 
